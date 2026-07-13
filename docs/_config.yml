@@ -21,8 +21,7 @@ highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tom
 url     : https://glax.dev # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Glax's corner of the internet
-description: > # this means to ignore newlines until "Language & timezone"
-  Glax's corner of the internet
+description: Glax's corner of the internet
 
 
 ## => Language and Timezone
