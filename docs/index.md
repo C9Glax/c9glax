@@ -1,7 +1,5 @@
 ---
 layout: home
-# articles:
-#   excerpt_type: html
 ---
 
 ## Hi there 👋
